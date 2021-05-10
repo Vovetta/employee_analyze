@@ -2,7 +2,7 @@
 
 ## Setup
 ```
-pip install git+[GIT_URL]
+pip install git+https://github.com/vovetta/employee_analyze
 ```
 
 ## Work

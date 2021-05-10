@@ -1,6 +1,6 @@
 from sqlite3 import connect
 
-from utils import process_employees_data, load_data, process_projects_data, process_days_data, export_csv
+from .utils import process_employees_data, load_data, process_projects_data, process_days_data, export_csv
 
 
 def extract_data(dir_name: str, db_name: str) -> None:
